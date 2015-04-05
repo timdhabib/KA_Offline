@@ -3,7 +3,8 @@ size(400, 400);
 frameRate(30);
 
 
-//ProgramCodeGoesHerevar xPos = 50;
+//ProgramCodeGoesHere
+var xPos = 50;
 var yPos = 600;
 var zPos = 350;
 var aPos = 10;
